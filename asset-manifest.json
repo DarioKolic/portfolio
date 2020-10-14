@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.294e2f60.chunk.css",
+    "main.js": "/portfolio/static/js/main.cedf8387.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.cedf8387.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
+    "static/css/2.89c4d570.chunk.css": "/portfolio/static/css/2.89c4d570.chunk.css",
+    "static/js/2.5ba1e6ba.chunk.js": "/portfolio/static/js/2.5ba1e6ba.chunk.js",
+    "static/js/2.5ba1e6ba.chunk.js.map": "/portfolio/static/js/2.5ba1e6ba.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.cce8ffcbeaaa931c4d01f4db53174386.js": "/portfolio/precache-manifest.cce8ffcbeaaa931c4d01f4db53174386.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/2.89c4d570.chunk.css.map": "/portfolio/static/css/2.89c4d570.chunk.css.map",
+    "static/css/main.294e2f60.chunk.css.map": "/portfolio/static/css/main.294e2f60.chunk.css.map",
+    "static/js/2.5ba1e6ba.chunk.js.LICENSE.txt": "/portfolio/static/js/2.5ba1e6ba.chunk.js.LICENSE.txt",
+    "static/media/bootstrap.svg": "/portfolio/static/media/bootstrap.71e42b5a.svg",
+    "static/media/css-3.svg": "/portfolio/static/media/css-3.d3ad67fa.svg",
+    "static/media/eos-icons.css": "/portfolio/static/media/eos-icons.e2fb078e.woff",
+    "static/media/firebase.svg": "/portfolio/static/media/firebase.bfa69c4f.svg",
+    "static/media/git-icon.svg": "/portfolio/static/media/git-icon.64d5e98f.svg",
+    "static/media/html-5.svg": "/portfolio/static/media/html-5.24845c5c.svg",
+    "static/media/javascript.svg": "/portfolio/static/media/javascript.87711407.svg",
+    "static/media/logo.svg": "/portfolio/static/media/logo.61fdea8b.svg",
+    "static/media/nodejs.svg": "/portfolio/static/media/nodejs.f434bfbb.svg",
+    "static/media/profile.jpg": "/portfolio/static/media/profile.abffe269.jpg",
+    "static/media/react.svg": "/portfolio/static/media/react.9a28da9f.svg",
+    "static/media/redux.svg": "/portfolio/static/media/redux.85772647.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.209c2d7e.js",
+    "static/css/2.89c4d570.chunk.css",
+    "static/js/2.5ba1e6ba.chunk.js",
+    "static/css/main.294e2f60.chunk.css",
+    "static/js/main.cedf8387.chunk.js"
+  ]
+}
